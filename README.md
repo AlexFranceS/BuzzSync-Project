@@ -2,7 +2,7 @@
 
 Link do App
          https://buzzsync---jornada.web.app
-         http://192.168.100.53:3000 
+        
 
 Link do disco de vinil
         https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/vinil.png?t=2023-05-22T19%3A39%3A28.772Z
